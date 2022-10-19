@@ -1,0 +1,22 @@
+<ArrayList>
+ <estadistica id="27ba6d21-655b-4d46-b4bc-3df2f339fbbe" fecha="2022-10-19T08:24:37.069561800">
+  <resumen id="cb8cc121-cb35-4aba-aaca-4ea28985ff4a" tipo="NO2" fecha="2022-10-19T08:24:37.062122500" maxValue="999.0" maxDate="2017-10-19T11:21:28Z" minValue="25.0" minDate="2021-08-27T07:44:57Z" avgValue="272.92"/>
+  <resumen id="f9661af5-94c9-43fc-8b54-809a0bb6e27a" tipo="Temperatura" fecha="2022-10-19T08:24:37.065594400" maxValue="27.0" maxDate="2021-08-27T07:47:14Z" minValue="0.0" minDate="2017-10-19T11:21:28Z" avgValue="17.732000000000006"/>
+  <resumen id="306bc446-0df8-4f2e-bf48-4fcc92529276" tipo="Ozone" fecha="2022-10-19T08:24:37.068073800" maxValue="999.0" maxDate="2017-10-19T11:21:28Z" minValue="3.0" minDate="2021-08-27T07:46:33Z" avgValue="232.4"/>
+ </estadistica>
+ <estadistica id="9fc04da7-0b6b-4f93-8eb5-3e5a4b411075" fecha="2022-10-19T08:24:37.072537900">
+  <resumen id="6c5c4462-9eb0-4361-8026-36cb547196fb" tipo="NO2" fecha="2022-10-19T08:24:37.071050" maxValue="999.0" maxDate="2017-10-19T11:19:51Z" minValue="27.0" minDate="2018-01-18T11:34:58Z" avgValue="255.8"/>
+  <resumen id="16ae5e65-f2ef-4d3e-84a0-9ede2149f870" tipo="Temperatura" fecha="2022-10-19T08:24:37.071545800" maxValue="31.5" maxDate="2021-08-27T07:43:00Z" minValue="0.0" minDate="2017-10-19T11:19:51Z" avgValue="17.128"/>
+  <resumen id="b8ab3659-04b5-41e6-a3a7-fbe50a298ad1" tipo="Ozone" fecha="2022-10-19T08:24:37.072537900" maxValue="999.0" maxDate="2017-10-19T11:19:51Z" minValue="5.0" minDate="2020-02-06T11:12:27Z" avgValue="236.56"/>
+ </estadistica>
+ <estadistica id="13dc6e65-f026-4c65-9d1a-e935b0d1b885" fecha="2022-10-19T08:24:37.075513500">
+  <resumen id="0fc9a9c4-66a6-4bf4-9436-3d48ac06e78b" tipo="NO2" fecha="2022-10-19T08:24:37.074026100" maxValue="999.0" maxDate="2017-10-19T11:20:01Z" minValue="0.0" minDate="2020-10-06T09:18:00Z" avgValue="245.92"/>
+  <resumen id="c797e309-fac0-4528-9032-425f5730c7f1" tipo="Temperatura" fecha="2022-10-19T08:24:37.074521800" maxValue="200.0" maxDate="2017-10-16T01:46:09Z" minValue="0.0" minDate="2017-10-19T11:20:01Z" avgValue="29.264"/>
+  <resumen id="eaec3b25-70d8-4d37-9ea1-a6f0febf4252" tipo="Ozone" fecha="2022-10-19T08:24:37.075513500" maxValue="999.0" maxDate="2017-10-19T11:20:01Z" minValue="0.0" minDate="2020-10-06T09:18:00Z" avgValue="229.08"/>
+ </estadistica>
+ <estadistica id="d9cfe874-2a4b-4175-be24-35a7a4c74c61" fecha="2022-10-19T08:24:37.077498100">
+  <resumen id="058dac0a-c7d4-4b4e-a729-4ae0d914c6ac" tipo="NO2" fecha="2022-10-19T08:24:37.076506100" maxValue="999.0" maxDate="2017-10-19T10:21:50Z" minValue="32.0" minDate="2018-07-28T08:54:38Z" avgValue="189.33333333333334"/>
+  <resumen id="37587733-db41-445a-b2df-5739a91ac11b" tipo="Temperatura" fecha="2022-10-19T08:24:37.077001900" maxValue="200.0" maxDate="2017-10-19T10:21:50Z" minValue="17.7" minDate="2018-07-16T06:35:55Z" avgValue="45.922222222222224"/>
+  <resumen id="be71d28d-8f3d-434c-a9f4-9a6639fdf192" tipo="Ozone" fecha="2022-10-19T08:24:37.077498100" maxValue="999.0" maxDate="2017-10-19T10:21:50Z" minValue="0.0" minDate="2021-08-27T07:46:07Z" avgValue="137.44444444444446"/>
+ </estadistica>
+</ArrayList>
